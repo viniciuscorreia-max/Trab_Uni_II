@@ -18,4 +18,4 @@ Basta abrir `index.html` no navegador.
 - `docs/release-notes.md`
 
 ## Créditos
-- Aluno A (owner), Aluno B, Aluno C.
+- Vinicius Ferreira, Wanessa Gomes, Regis Simao.
