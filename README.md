@@ -18,4 +18,8 @@ Basta abrir `index.html` no navegador.
 - `docs/release-notes.md`
 
 ## Créditos
+<<<<<<< HEAD
 - Vinicius Ferreira (owner), Maiara, Regis.
+=======
+- Vinicius Ferreira, Wanessa Gomes, Regis Simao.
+>>>>>>> feature/tema-ajustavel
